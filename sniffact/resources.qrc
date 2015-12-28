@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about.png</file>
+        <file>images/aboutAuthor.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/begin.png</file>
+        <file>images/help.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/set.png</file>
+        <file>images/stop.png</file>
+    </qresource>
+</RCC>

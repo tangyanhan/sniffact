@@ -1,0 +1,3 @@
+QMetaObject::connectSlotsByName: No matching signal for on_LuaSetDialog_accepted()
+Qt: Dead lock detected while activating a BlockingQueuedConnection: Sender is SniffThread(0x2267590), receiver is MainWindow(0x7fff1f7398e0)
+
